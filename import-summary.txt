@@ -11,7 +11,7 @@ projects, manifests are always merged (meaning that contents from your
 libraries' manifests will be merged into the app manifest. If you had
 manually copied contents from library manifests into your app manifest
 you may need to remove these for the app to build correctly.
-
+This is second Branch,you cant see it in Master.
 Ignored Files:
 --------------
 The following files were *not* copied into the new Gradle project; you
