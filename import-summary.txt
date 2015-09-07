@@ -1,5 +1,6 @@
 ECLIPSE ANDROID PROJECT IMPORT SUMMARY
 ======================================
+i modify this again.
 i like git.
 I insert this line,can you find it?
 Manifest Merging:
