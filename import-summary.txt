@@ -32,7 +32,7 @@ From WeWifi_rebuild:
 From library:
 * LICENSE
 * pom.xml
-
+this is second prictice.
 Replaced Jars with Dependencies:
 --------------------------------
 The importer recognized the following .jar files as third party
